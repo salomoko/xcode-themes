@@ -4,6 +4,9 @@ Your code doesn't have to look so sour. I've collected a list of Xcode themes (a
 
 ## Xcode themes
 
+### La Paloma
+by [salomoko](https://www.dropbox.com/s/a0x3kvjrmv9hoqi/LaPaloma-theme.png) 
+
 ### Darkcloud
 ![Darkcloud](http://damir.me/system/u/manual/darkcloud.jpg)  
 
